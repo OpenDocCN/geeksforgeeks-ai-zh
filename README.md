@@ -8,7 +8,7 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* [在线阅读](https://g4g-ai.apachecn.org)
+* [在线阅读](https://g4g-ai.flygon.net)
 ## 下载
 
 ### Docker
